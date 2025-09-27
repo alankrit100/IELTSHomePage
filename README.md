@@ -2,16 +2,9 @@
 
 This repository contains the source code for the "IELTS Excellence" landing page, a fully responsive and highly animated single-page application built with React, TypeScript, and Tailwind CSS. The project showcases modern UI/UX principles and advanced frontend development techniques to create an engaging user experience for a fictional IELTS coaching service.
 
-![IELTS Excellence Screenshot](./public/screenshot.png)
-*(**Note**: It's highly recommended to replace `screenshot.png` in your `public` folder with an actual screenshot of your project for this image to display correctly.)*
 
 ---
 
-## 🚀 Live Demo
-
-**[https://your-live-website-url.com](https://your-live-website-url.com)** &nbsp;👈 &nbsp; *(Replace this with your deployment link from Vercel or Netlify)*
-
----
 
 ## ✨ Features
 
@@ -59,12 +52,12 @@ Make sure you have [Node.js](https://nodejs.org/) (version 18 or higher) and `np
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/alankrit100/IELTSHomePage.git
     ```
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-repo-name
+    cd IELTSHomePage
     ```
 
 3.  **Install the dependencies:**
