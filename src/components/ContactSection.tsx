@@ -54,7 +54,7 @@ export function ContactSection() {
             </span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Get in touch with us today for a free consultation and take the first step 
+            Get in touch with us today for a free consultation and take the first step
             towards achieving your dream IELTS score.
           </p>
         </div>
@@ -143,7 +143,7 @@ export function ContactSection() {
                   <Input
                     id="email"
                     type="email"
-                    {...register('email', { 
+                    {...register('email', {
                       required: 'Email is required',
                       pattern: {
                         value: /^\S+@\S+$/i,
