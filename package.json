@@ -82,5 +82,18 @@
     "typescript": "~5.6.2",
     "typescript-eslint": "^8.11.0",
     "vite": "^5.4.8"
-  }
+  },
+  "description": "This repository contains the source code for the \"IELTS Excellence\" landing page, a fully responsive and highly animated single-page application built with React, TypeScript, and Tailwind CSS. The project showcases modern UI/UX principles and advanced frontend development techniques to create an engaging user experience for a fictional IELTS coaching service.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alankrit100/IELTSHomePage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alankrit100/IELTSHomePage/issues"
+  },
+  "homepage": "https://github.com/alankrit100/IELTSHomePage#readme"
 }
